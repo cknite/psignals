@@ -1,7 +1,6 @@
 #ifndef _KTL_PSIGNALS_PSIGNALS_HPP_
 #define _KTL_PSIGNALS_PSIGNALS_HPP_
 
-#include <ktl/exception/throw.hpp>
 #include <cstring>
 #include <chrono>
 #include <unordered_set>
