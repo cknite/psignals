@@ -4,6 +4,7 @@
 #include <cstring>
 #include <chrono>
 #include <unordered_set>
+#include <vector>
 #include <signal.h>
 
 extern "C"
